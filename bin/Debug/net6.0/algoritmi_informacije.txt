@@ -1,0 +1,204 @@
+Naziv algoritma                 Vrijeme izvrsavanja           Na indeksu      Trazeni element            Kontejner            Na opsegu
+
+Interpolacijska pretraga           00:00:00.0004395                    0                    1                  Niz            [1, 1000]
+Binarna pretraga                   00:00:00.0004865                    0                    1                  Niz            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0005416                    0                    1                  Niz            [1, 1000]
+Iscrpna pretraga                   00:00:00.0013833                    0                    1                  Niz            [1, 1000]
+Fibonacci pretraga                 00:00:00.0016106                    0                    1                  Niz            [1, 1000]
+Skok pretraga                      00:00:00.0173912                    0                    1                  Niz            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000004                  499                  500                  Niz            [1, 1000]
+Binarna pretraga                   00:00:00.0000007                  499                  500                  Niz            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000020                  499                  500                  Niz            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000106                  499                  500                  Niz            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0005284                  499                  500                  Niz            [1, 1000]
+Skok pretraga                      00:00:00.0006044                  499                  500                  Niz            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000005                  999                 1000                  Niz            [1, 1000]
+Binarna pretraga                   00:00:00.0000006                  999                 1000                  Niz            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000017                  999                 1000                  Niz            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0000017                  999                 1000                  Niz            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000270                  999                 1000                  Niz            [1, 1000]
+Skok pretraga                      00:00:00.0006311                  999                 1000                  Niz            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000006                   -1                 1001                  Niz            [1, 1000]
+Binarna pretraga                   00:00:00.0000012                   -1                 1001                  Niz            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0000035                   -1                 1001                  Niz            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000060                   -1                 1001                  Niz            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000187                   -1                 1001                  Niz            [1, 1000]
+Skok pretraga                      00:00:00.0008124                   -1                 1001                  Niz            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Naziv algoritma                 Vrijeme izvrsavanja           Na indeksu      Trazeni element            Kontejner            Na opsegu
+
+Eksponencijalna pretraga           00:00:00.0000008                    0                    1                  Niz           [1, 10000]
+Interpolacijska pretraga           00:00:00.0000020                    0                    1                  Niz           [1, 10000]
+Iscrpna pretraga                   00:00:00.0000021                    0                    1                  Niz           [1, 10000]
+Binarna pretraga                   00:00:00.0000038                    0                    1                  Niz           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000044                    0                    1                  Niz           [1, 10000]
+Skok pretraga                      00:00:00.0064473                    0                    1                  Niz           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000005                 4999                 5000                  Niz           [1, 10000]
+Binarna pretraga                   00:00:00.0000016                 4999                 5000                  Niz           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000020                 4999                 5000                  Niz           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000040                 4999                 5000                  Niz           [1, 10000]
+Iscrpna pretraga                   00:00:00.0000921                 4999                 5000                  Niz           [1, 10000]
+Skok pretraga                      00:00:00.0064245                 4999                 5000                  Niz           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000004                 9999                10000                  Niz           [1, 10000]
+Binarna pretraga                   00:00:00.0000015                 9999                10000                  Niz           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000020                 9999                10000                  Niz           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000025                 9999                10000                  Niz           [1, 10000]
+Iscrpna pretraga                   00:00:00.0001836                 9999                10000                  Niz           [1, 10000]
+Skok pretraga                      00:00:00.0103810                 9999                10000                  Niz           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000003                   -1                10001                  Niz           [1, 10000]
+Binarna pretraga                   00:00:00.0000008                   -1                10001                  Niz           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000030                   -1                10001                  Niz           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000031                   -1                10001                  Niz           [1, 10000]
+Iscrpna pretraga                   00:00:00.0001837                   -1                10001                  Niz           [1, 10000]
+Skok pretraga                      00:00:00.0068865                   -1                10001                  Niz           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Naziv algoritma                 Vrijeme izvrsavanja           Na indeksu      Trazeni element            Kontejner            Na opsegu
+
+Interpolacijska pretraga           00:00:00.0000024                    0                    1                  Niz         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0000026                    0                    1                  Niz         [1, 1000000]
+Binarna pretraga                   00:00:00.0000059                    0                    1                  Niz         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000061                    0                    1                  Niz         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000171                    0                    1                  Niz         [1, 1000000]
+Skok pretraga                      00:00:00.6152586                    0                    1                  Niz         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000022               499999               500000                  Niz         [1, 1000000]
+Binarna pretraga                   00:00:00.0000036               499999               500000                  Niz         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000060               499999               500000                  Niz         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000164               499999               500000                  Niz         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0062407               499999               500000                  Niz         [1, 1000000]
+Skok pretraga                      00:00:00.5596652               499999               500000                  Niz         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000021               999999              1000000                  Niz         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000030               999999              1000000                  Niz         [1, 1000000]
+Binarna pretraga                   00:00:00.0000036               999999              1000000                  Niz         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000046               999999              1000000                  Niz         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0149896               999999              1000000                  Niz         [1, 1000000]
+Skok pretraga                      00:00:00.5532233               999999              1000000                  Niz         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000025                   -1              1000001                  Niz         [1, 1000000]
+Binarna pretraga                   00:00:00.0000035                   -1              1000001                  Niz         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000046                   -1              1000001                  Niz         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000047                   -1              1000001                  Niz         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0132935                   -1              1000001                  Niz         [1, 1000000]
+Skok pretraga                      00:00:00.5764619                   -1              1000001                  Niz         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Naziv algoritma                 Vrijeme izvrsavanja           Na indeksu      Trazeni element            Kontejner            Na opsegu
+
+Eksponencijalna pretraga           00:00:00.0000002                    0                    1                Lista            [1, 1000]
+Interpolacijska pretraga           00:00:00.0000004                    0                    1                Lista            [1, 1000]
+Binarna pretraga                   00:00:00.0000009                    0                    1                Lista            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000119                    0                    1                Lista            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000470                    0                    1                Lista            [1, 1000]
+Skok pretraga                      00:00:00.0003210                    0                    1                Lista            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000002                  499                  500                Lista            [1, 1000]
+Binarna pretraga                   00:00:00.0000005                  499                  500                Lista            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0000010                  499                  500                Lista            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000021                  499                  500                Lista            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000081                  499                  500                Lista            [1, 1000]
+Skok pretraga                      00:00:00.0002268                  499                  500                Lista            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000002                  999                 1000                Lista            [1, 1000]
+Binarna pretraga                   00:00:00.0000004                  999                 1000                Lista            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000007                  999                 1000                Lista            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0000008                  999                 1000                Lista            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000125                  999                 1000                Lista            [1, 1000]
+Skok pretraga                      00:00:00.0002077                  999                 1000                Lista            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000002                   -1                 1001                Lista            [1, 1000]
+Binarna pretraga                   00:00:00.0000004                   -1                 1001                Lista            [1, 1000]
+Eksponencijalna pretraga           00:00:00.0000007                   -1                 1001                Lista            [1, 1000]
+Fibonacci pretraga                 00:00:00.0000013                   -1                 1001                Lista            [1, 1000]
+Iscrpna pretraga                   00:00:00.0000125                   -1                 1001                Lista            [1, 1000]
+Skok pretraga                      00:00:00.0002052                   -1                 1001                Lista            [1, 1000]
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Naziv algoritma                 Vrijeme izvrsavanja           Na indeksu      Trazeni element            Kontejner            Na opsegu
+
+Interpolacijska pretraga           00:00:00.0000003                    0                    1                Lista           [1, 10000]
+Iscrpna pretraga                   00:00:00.0000004                    0                    1                Lista           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000006                    0                    1                Lista           [1, 10000]
+Binarna pretraga                   00:00:00.0000007                    0                    1                Lista           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000032                    0                    1                Lista           [1, 10000]
+Skok pretraga                      00:00:00.0030268                    0                    1                Lista           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000006                 4999                 5000                Lista           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000013                 4999                 5000                Lista           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000020                 4999                 5000                Lista           [1, 10000]
+Binarna pretraga                   00:00:00.0000029                 4999                 5000                Lista           [1, 10000]
+Iscrpna pretraga                   00:00:00.0000627                 4999                 5000                Lista           [1, 10000]
+Skok pretraga                      00:00:00.0028019                 4999                 5000                Lista           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000012                 9999                10000                Lista           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000014                 9999                10000                Lista           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000019                 9999                10000                Lista           [1, 10000]
+Binarna pretraga                   00:00:00.0000024                 9999                10000                Lista           [1, 10000]
+Iscrpna pretraga                   00:00:00.0001262                 9999                10000                Lista           [1, 10000]
+Skok pretraga                      00:00:00.0028085                 9999                10000                Lista           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000002                   -1                10001                Lista           [1, 10000]
+Fibonacci pretraga                 00:00:00.0000018                   -1                10001                Lista           [1, 10000]
+Eksponencijalna pretraga           00:00:00.0000020                   -1                10001                Lista           [1, 10000]
+Binarna pretraga                   00:00:00.0000085                   -1                10001                Lista           [1, 10000]
+Iscrpna pretraga                   00:00:00.0001261                   -1                10001                Lista           [1, 10000]
+Skok pretraga                      00:00:00.0029110                   -1                10001                Lista           [1, 10000]
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Naziv algoritma                 Vrijeme izvrsavanja           Na indeksu      Trazeni element            Kontejner            Na opsegu
+
+Iscrpna pretraga                   00:00:00.0000034                    0                    1                Lista         [1, 1000000]
+Interpolacijska pretraga           00:00:00.0000035                    0                    1                Lista         [1, 1000000]
+Binarna pretraga                   00:00:00.0000052                    0                    1                Lista         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000053                    0                    1                Lista         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000066                    0                    1                Lista         [1, 1000000]
+Skok pretraga                      00:00:00.4698760                    0                    1                Lista         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000045               499999               500000                Lista         [1, 1000000]
+Binarna pretraga                   00:00:00.0000054               499999               500000                Lista         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000080               499999               500000                Lista         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000174               499999               500000                Lista         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0063373               499999               500000                Lista         [1, 1000000]
+Skok pretraga                      00:00:00.4438966               499999               500000                Lista         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000036               999999              1000000                Lista         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000040               999999              1000000                Lista         [1, 1000000]
+Binarna pretraga                   00:00:00.0000062               999999              1000000                Lista         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000076               999999              1000000                Lista         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0133395               999999              1000000                Lista         [1, 1000000]
+Skok pretraga                      00:00:00.4227181               999999              1000000                Lista         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+Interpolacijska pretraga           00:00:00.0000036                   -1              1000001                Lista         [1, 1000000]
+Binarna pretraga                   00:00:00.0000055                   -1              1000001                Lista         [1, 1000000]
+Fibonacci pretraga                 00:00:00.0000059                   -1              1000001                Lista         [1, 1000000]
+Eksponencijalna pretraga           00:00:00.0000074                   -1              1000001                Lista         [1, 1000000]
+Iscrpna pretraga                   00:00:00.0124702                   -1              1000001                Lista         [1, 1000000]
+Skok pretraga                      00:00:00.4444165                   -1              1000001                Lista         [1, 1000000]
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

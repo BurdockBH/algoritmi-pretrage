@@ -1,0 +1,15 @@
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\bin\Debug\net6.0\Zadaca1.exe
+C:\Users\Burdock\source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\bin\Debug\net6.0\Zadaca1.deps.json
+C:\Users\Burdock\source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\bin\Debug\net6.0\Zadaca1.runtimeconfig.json
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\bin\Debug\net6.0\Zadaca1.dll
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\bin\Debug\net6.0\Zadaca1.pdb
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.csproj.AssemblyReference.cache
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.AssemblyInfoInputs.cache
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.AssemblyInfo.cs
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.csproj.CoreCompileInputs.cache
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.dll
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\refint\Zadaca1.dll
+C:\Users\Burdock\Source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.pdb
+C:\Users\Burdock\source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\Zadaca1.genruntimeconfig.cache
+C:\Users\Burdock\source\Workspaces\TestiranjeSoftvera-Zadaca1\Zadaca1\Zadaca1\obj\Debug\net6.0\ref\Zadaca1.dll
