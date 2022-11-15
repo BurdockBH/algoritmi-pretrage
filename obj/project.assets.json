@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burdock\\source\\Workspaces\\TestiranjeSoftvera-Zadaca1\\Zadaca1\\Zadaca1\\Zadaca1.csproj",
+      "projectUniqueName": "C:\\Users\\Burdock\\Source\\Workspaces\\TestiranjeSoftvera-Zadaca1\\Zadaca1\\Zadaca1\\Zadaca1.csproj",
       "projectName": "Zadaca1",
-      "projectPath": "C:\\Users\\Burdock\\source\\Workspaces\\TestiranjeSoftvera-Zadaca1\\Zadaca1\\Zadaca1\\Zadaca1.csproj",
+      "projectPath": "C:\\Users\\Burdock\\Source\\Workspaces\\TestiranjeSoftvera-Zadaca1\\Zadaca1\\Zadaca1\\Zadaca1.csproj",
       "packagesPath": "C:\\Users\\Burdock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burdock\\source\\Workspaces\\TestiranjeSoftvera-Zadaca1\\Zadaca1\\Zadaca1\\obj\\",
+      "outputPath": "C:\\Users\\Burdock\\Source\\Workspaces\\TestiranjeSoftvera-Zadaca1\\Zadaca1\\Zadaca1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burdock\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
